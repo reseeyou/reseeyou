@@ -1,8 +1,8 @@
 {
-  "name": "Next.JS Progressive Web App",
-  "short_name": "Next PWA",
+  "name": "Reseeyou | Digital Agency for Everyone",
+  "short_name": "Reseeyou",
   "theme_color": "#ffffff",
-  "background_color": "#004740",
+  "background_color": "#00ffff",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
@@ -36,6 +36,11 @@
     {
       "src": "icons/icon-192x192.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-256x256.png",
+      "sizes": "256x256",
       "type": "image/png"
     },
     {
